@@ -1,4 +1,4 @@
-app_name = "taskforge_erp"
+app_name = "erpnext"
 app_title = "TaskforgeHQ ERP"
 app_publisher = "TaskforgeHQ Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
